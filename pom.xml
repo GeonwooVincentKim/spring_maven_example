@@ -89,11 +89,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<resources>
-			<resource>
-				<directory>io/first/hi</directory>
-			</resource>
-		</resources>
 	</build>
 
 </project>
